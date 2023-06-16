@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  },
+  "exports": [
+    "./lib/websocket-server"
+  ]
+}
